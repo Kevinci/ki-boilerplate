@@ -1,12 +1,19 @@
 {
-  "dependencies": {
-    "normalize.css": "^5.0.0"
-  },
   "name": "ki-boilerplate",
   "description": "boilerplate",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+  "dependencies": {
+    "normalize.css": "^5.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.17.0",
+    "babel-preset-es2015": "^6.16.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^2.1.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
