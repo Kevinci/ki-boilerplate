@@ -85,3 +85,7 @@ fabric.properties
 
 .gitignore
 .idea/
+yarn.lock
+dist/
+package.json
+src/sass/generic/normalize/
