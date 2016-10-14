@@ -1,5 +1,27 @@
 {
   "dependencies": {
     "normalize.css": "^5.0.0"
-  }
+  },
+  "name": "ki-boilerplate",
+  "description": "boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevinci/ki-boilerplate.git"
+  },
+  "keywords": [
+    "itcss",
+    "boilerplate"
+  ],
+  "author": "Kevin Imig <iam@kevin-imig.de> (http://kevinci.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kevinci/ki-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Kevinci/ki-boilerplate#readme"
 }
