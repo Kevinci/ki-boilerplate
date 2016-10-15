@@ -16,7 +16,7 @@ npm install -g gulp
 ## Usage
 
 ```shell
-git clone git@github.com:evinci/ki-boilerplate.git
+git clone git@github.com:kevinci/ki-boilerplate.git
 ```
 **Installing the dependencies of project**
 ```shell
