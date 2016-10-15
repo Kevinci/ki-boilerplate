@@ -1,2 +1,2 @@
 # ki-boilerplate
-boilerplate
+ITCSS Boilerplate
