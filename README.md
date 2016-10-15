@@ -12,10 +12,7 @@ Install Gulp
 ```shell
 npm install -g gulp
 ```
-Install Grunt
-```shell
-npm install -g grunt-cli
-```
+
 ## Usage
 
 ```shell
