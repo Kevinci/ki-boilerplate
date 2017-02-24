@@ -20,5 +20,5 @@ git clone git@github.com:kevinci/ki-boilerplate.git
 ```
 **Installing the dependencies of project**
 ```shell
-npm install or yarn or yarn install 
+npm install or yarn or yarn add
 ```
