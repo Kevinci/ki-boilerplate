@@ -15,10 +15,10 @@ const sassPaths = {
     dest: `${dirs.dest}/styles/`
 };
 
-gulp.task('styles', () => {
+gulp.task('watch', () => {
     return gulp.src(paths.src)
         .pipe(sourcemaps.init())
-        .pipe(sass.sync().on('error', plugins.sass.logError))
+        .pipe(sass.sync().on('error', sass.logError))
         .pipe(autoprefixer())
         .pipe(sourcemaps.write('.'))
         .pipe(gulp.dest(paths.dest));
